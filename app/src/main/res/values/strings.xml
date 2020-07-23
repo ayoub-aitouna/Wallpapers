@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">battle Royale Wallpaper 4K</string>
+    <string name="recent">Recent</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about">App Info</string>
+    <string name="view_other_similar_apps">View other similar apps</string>
+    <string name="rate_the_app">Rate the app</string>
+    <string name="battle_royal_wallpaper">Battle Royal wallpaper</string>
+    <string name="Version">1.0.0</string>
+    <string name="share">"Share app with friends "</string>
+    <string name="admob_app_id">ca-app-pub-3563980099774915~3745595394</string>
+    <string name="ad_unit_id">ca-app-pub-3563980099774915/2240942032</string>
+    <string name="ad">Ad</string>
+    <string name="devloper">"\tDeveloper \n Ayoub Aitouna "</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3563980099774915/9661827554</string>
+    <string name="banner_ad_unit_id2">ca-app-pub-3563980099774915/9157704177</string>
+    <string name="mInterstitial">ca-app-pub-3563980099774915/1853929224</string>
+    <string name="contact">Contact Us</string>
+
+</resources>

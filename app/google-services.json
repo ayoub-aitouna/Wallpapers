@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "923916909493",
+    "firebase_url": "https://dragonwallpaper-deafc.firebaseio.com",
+    "project_id": "dragonwallpaper-deafc",
+    "storage_bucket": "dragonwallpaper-deafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923916909493:android:070298c92832a0a517b7fc",
+        "android_client_info": {
+          "package_name": "com.Wallpape.dragon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923916909493-orks7dqf4sgrasbb06rkeb502832f4e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8c_Nc8KldunD-FB0py04SW8OBVpCkh2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923916909493-orks7dqf4sgrasbb06rkeb502832f4e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923916909493:android:b98d1802d0f600bc17b7fc",
+        "android_client_info": {
+          "package_name": "com.wallpape.royal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923916909493-orks7dqf4sgrasbb06rkeb502832f4e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8c_Nc8KldunD-FB0py04SW8OBVpCkh2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923916909493-orks7dqf4sgrasbb06rkeb502832f4e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
